@@ -479,7 +479,7 @@
             <version>${jacoco.version}</version>
             <executions>
                 <execution>
-                    <id>jacoco-initialize</iid>
+                    <id>jacoco-initialize</id>
                     <goals>
                         <goal>prepare-agent</goal>
                     </goals>
