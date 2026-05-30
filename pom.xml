@@ -492,7 +492,7 @@
                     </goals>
                 </execution>
 
-        </plugins>
+        </plugin>
     </build>
 
     <profiles>
